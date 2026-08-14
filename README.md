@@ -130,9 +130,7 @@ where
 
 The signal magnitude is calculated as
 
-\[
-|x[n]|=\sqrt{I^2+Q^2}
-\]
+\left|x\left[n\right]\right|=\ \sqrt{I^{2}\ +\ Q^{2}}
 
 This simplifies burst detection by removing phase information.
 
